@@ -1,1 +1,1 @@
-//= require wavesurfer.mediasession.min.js
+//= require ./wavesurfer.mediasession.min.js

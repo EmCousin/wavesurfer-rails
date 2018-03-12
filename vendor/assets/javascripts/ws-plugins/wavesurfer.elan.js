@@ -1,1 +1,1 @@
-//= require wavesurfer.elan.min.js
+//= require ./wavesurfer.elan.min.js

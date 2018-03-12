@@ -1,1 +1,1 @@
-//= require wavesurfer.elan-wave-segment.min.js
+//= require ./wavesurfer.elan-wave-segment.min.js

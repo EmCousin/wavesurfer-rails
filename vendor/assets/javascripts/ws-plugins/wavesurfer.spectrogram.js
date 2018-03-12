@@ -1,1 +1,1 @@
-//= require wavesurfer.spectrogram.min.js
+//= require ./wavesurfer.spectrogram.min.js

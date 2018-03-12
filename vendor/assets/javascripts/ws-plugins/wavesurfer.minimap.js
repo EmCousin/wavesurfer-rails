@@ -1,1 +1,1 @@
-//= require wavesurfer.minimap.min.js
+//= require ./wavesurfer.minimap.min.js

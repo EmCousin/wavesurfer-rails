@@ -1,1 +1,1 @@
-//= require wavesurfer.microphone.min.js
+//= require ./wavesurfer.microphone.min.js

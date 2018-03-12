@@ -1,1 +1,1 @@
-//= require wavesurfer.timeline.min.js
+//= require ./wavesurfer.timeline.min.js

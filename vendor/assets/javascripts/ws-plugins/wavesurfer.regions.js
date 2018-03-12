@@ -1,1 +1,1 @@
-//= require wavesurfer.regions.min.js
+//= require ./wavesurfer.regions.min.js

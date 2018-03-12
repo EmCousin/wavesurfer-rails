@@ -1,1 +1,1 @@
-//= require wavesurfer.playlist.min.js
+//= require ./wavesurfer.playlist.min.js

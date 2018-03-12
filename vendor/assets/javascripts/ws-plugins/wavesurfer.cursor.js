@@ -1,1 +1,1 @@
-//= require wavesurfer.cursor.min.js
+//= require ./wavesurfer.cursor.min.js
